@@ -102,7 +102,7 @@ tieba.baidu.com###footer~*,#guide_fc,.firework_sender_wrap,#global_notice_wrap,.
 ! 电信截持弹窗3行
 ||greenet.cn/$popup,third-party
 ||189.gd/$popup,third-party
-||189.cn/$popup,third-party
+! ||189.cn/$popup,third-party
 ||301pk.com/$third-party
 ||lianmeng.360.cn/
 ||360buyimg.com/$domain=~jd.com|~jd.hk
