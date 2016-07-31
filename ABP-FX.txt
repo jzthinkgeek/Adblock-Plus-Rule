@@ -150,7 +150,7 @@ tieba.baidu.com###footer~*,#guide_fc,.firework_sender_wrap,#global_notice_wrap,.
 ||bjjingda.com/
 ||cccrir.com/
 ||chenwen7788.com/
-||cloudfront.net/$domain=~pcloud.com|~camelcamelcamel.com|~duolingo.cn
+||~camelcamelcamel.com|~duolingo.cn
 ||cmp288.com/
 ||cnbole.net/
 @@||cnzz.com/z_stat.php?$script
